@@ -1,2 +1,1 @@
-# git-sample
-# HELLO there
+# git-sampl
